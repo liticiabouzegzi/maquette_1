@@ -1,0 +1,213 @@
+
+#container0{
+    width:100% ;
+    height:50px ;
+    background-color: black;
+}
+
+.liens{
+    float: left;
+    padding-top: 10px;
+    padding-left: 150px;
+}
+
+.L{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.icones{
+    float: right;
+    padding-top: 5px;
+    padding-right: 150px;
+}
+
+.I{
+    padding: 8px;
+    color: white;
+    
+    
+}
+
+#container1{
+    width: 100% ;
+    height:70px ;
+    background-color: white;
+}
+
+.champs{
+    float: right;
+    padding-top: 10px;
+    padding-right: 150px;
+    
+}
+.C{
+    padding: 15px;
+    border: none;
+}
+
+#rose{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(240, 89, 89);
+}
+
+.container3{
+
+        padding-left: 50px;
+        padding: 50px;
+        padding-bottom: 20px;
+    }
+    
+    
+    
+    .bloc0 {
+        width: 250px;
+        height: 300px;
+        float: right;
+        margin-top:30px;
+        margin-left: 40px;
+        margin-right: 50px;
+        background-color: white;
+    }
+
+.text{
+        width: 300px;
+        height: 200px;
+        float: left;
+        margin-top:30px;
+        margin-left: 40px;
+        margin-right: 50px;
+        color: white;
+   
+   
+}
+.F{
+        padding: 10px;
+        padding-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+button{
+    border-radius: 10px;
+    background-color: crimson;
+    color: white;
+    border: white;
+    width: 100px  ;
+    height: 40px ;
+    border: solid 2px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#blanc2 {
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    
+}
+
+.container{
+    padding-left: 50px;
+    padding: 50px;
+    padding-bottom: 20px;
+}
+
+
+
+.section_page {
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-top:30px;
+    margin-left: 40px;
+    margin-right: 50px;
+    color: white;
+    background-size: cover;
+    text-align: center;
+   
+}
+
+.filter {
+    width:300px ;
+    height:200px ;
+    background-color: rgb(182, 21, 54);
+    opacity: 0.6;
+    position: relative;
+}
+
+
+
+#gris{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(238, 228, 228);
+}
+
+
+
+.container2{
+    padding-left:100px;
+    
+
+
+
+}
+
+.section_page2 {
+    width: 300px;
+    height: 380px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 50px;
+    text-align: center;
+    
+    background-color :white;
+}
+
+.B{
+    padding-bottom: 100px;
+}
+
+
+footer {
+
+    width : 100%;
+    height: 250px;
+    background-image: url('images/imgF.jpg');
+    text-align: center;
+    
+
+    
+}
+
+.filter2{
+    width:100% ;
+    height:250px ;
+    background-color: rgb(48, 13, 20);
+    opacity: 0.6;
+    
+}
+.ecriture{
+    color: white;
+}
